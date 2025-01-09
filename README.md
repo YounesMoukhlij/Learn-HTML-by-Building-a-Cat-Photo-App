@@ -1,4 +1,4 @@
-Here’s a suggested description for your 
+Here’s a suggested description for your
 
 ---
 
@@ -25,4 +25,4 @@ This project is inspired by the [freeCodeCamp curriculum](https://www.freecodeca
 
 ---
 
-You can modify this description based on your preferences or the audience you’re targeting!
+Author : Younes Moukhlij
