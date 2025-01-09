@@ -1,4 +1,4 @@
-Here’s a suggested description for your GitHub README
+Here’s a suggested description for your GitHub READM
 
 ---
 
