@@ -1,4 +1,4 @@
-Here’s a suggested description for your GitHub READ
+Here’s a suggested description for your GitHub REA
 
 ---
 
