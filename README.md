@@ -1,4 +1,4 @@
-Here’s a suggested description for
+Here’s a suggested description 
 
 ---
 
